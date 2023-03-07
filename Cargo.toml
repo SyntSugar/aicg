@@ -2,4 +2,3 @@
 members = [
     "server",
     "client",
-]
